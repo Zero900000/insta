@@ -1,0 +1,3 @@
+post1: about dogs
+post2: about cars
+post3: about military
